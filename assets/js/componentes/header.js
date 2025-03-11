@@ -15,8 +15,8 @@ export function headerFunction() {
                 <a href="${url_base}/pages/contacto.html">Contáctanos</a>
             </div>
             <div class="c-btns">
-                <button class="btn-login">Iniciar Sesión</button>
-                <button class="btn-register">Registrarse</button>
+           <a href="${url_base}/pages/iniciar_sesion.html"><button class="btn-login">Iniciar Sesión</button></a></button>
+            <a href="${url_base}/pages/iniciar_sesion.html"><button class="btn-register">Registrarse</button></a>
             </div>
         </div>
 
